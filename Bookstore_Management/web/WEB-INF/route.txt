@@ -1,0 +1,12 @@
+login               --   LoginServlet
+searchLastName      --   SearchLastNameServlet
+deleteAccount       --   DeleteAccountServlet
+updateAccount       --   UpdateAccountServlet
+logout              --   LogoutServlet
+addBookToCart       --   AddBookToCartServlet
+removeBookFromCart  --   RemoveBookFromCartServlet
+checkout            --   CheckoutServlet
+onlineBookStore     --   OnlineBookStoreServlet
+createNewAccount    --   CreateNewAccountServlet
+                    --   StartUpServlet
+login.html          --   StartUpServlet
