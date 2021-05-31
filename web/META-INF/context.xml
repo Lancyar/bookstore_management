@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Context path="/MVC2SE1504">
-    <Resource name="DS007" auth="Container" type="javax.sql.DataSource"
-                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
-                url="jdbc:sqlserver://localhost:57009;databaseName=THANHHP;instanceName=SQLEXPRESS"
-                username="thanhhp" password="123456"/>
-</Context>
